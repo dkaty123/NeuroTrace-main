@@ -1,8 +1,7 @@
 # NeuroTrace: AI Agent Security and Observability Platform
 
-<img width="1490" alt="Screenshot 2025-06-21 at 1 17 09 AM" src="https://github.com/user-attachments/assets/f11447c0-1267-4dc8-b826-328e850f216f" />
+<img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/3ce4e665-e2e7-44cf-8c74-e03583ce97d1" />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **NeuroTrace isn't just a tool; it's your command center for dissecting, visualizing, and securing complex LangGraph agentic workflows. Dive deep into the execution flow, uncover hidden vulnerabilities, and watch your agents think—all in real-time!**
 
